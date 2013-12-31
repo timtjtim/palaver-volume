@@ -1,0 +1,21 @@
+name = VolumeControl
+version = 1.1
+description = Launch file folders
+file = volume
+author = Tim Hitchins
+actions = 
+Mute Audio, Mute Sound
+Mute Volume, Mute Sound
+Mute Sound, Mute Sound
+Min Audio, Mute Sound
+Min Volume, Mute Sound
+Minimum Audio, Mute Sound
+Minimum Volume, Mute Sound
+Maximum Volume, Full Sound
+Max Volume, Full Sound
+Maximum Audio, Full Sound
+Max Audio, Full Sound
+Volume Full, Full Sound
+Audio Full, Full Sound
+Volume [Stated Number (0 to 100)], set volume to (Stated Number)%
+

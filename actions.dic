@@ -1,0 +1,45 @@
+<m,M>ute <a,A>udio
+  volume 'amixer set Master 0'
+
+<m,M>ute <v,V>olume
+  volume 'amixer set Master 0'
+
+<m,M>ute <s,S>ound
+  volume 'amixer set Master 0'
+
+<m,M>in <a,A>udio
+  volume 'amixer set Master 0'
+
+<m,M>in <v,V>olume
+  volume 'amixer set Master 0'
+
+<m,M>inimum <a,A>udio
+  volume 'amixer set Master 0'
+
+<m,M>inimum <v,V>olume
+  volume 'amixer set Master 0'
+
+
+<m,M>aximum <v,V>olume
+  volume 'amixer set Master 100'
+
+<m,M>ax <v,V>olume
+  volume 'amixer set Master 100'
+
+<m,M>aximum <a,A>udio
+  volume 'amixer set Master 100'
+
+<m,M>ax <a,A>udio
+  volume 'amixer set Master 100'
+
+<v,V>olume <f,F>ull
+  volume 'amixer set Master 100'
+
+<a,A>udio <f,F>ull
+  volume 'amixer set Master 100'
+
+
+<v,V>olume (LINE percent)
+  volume 'amixer set Master $percent$'
+
+
